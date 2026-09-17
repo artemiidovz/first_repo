@@ -1,4 +1,4 @@
-# first_repo
+# My Super Project
 My first repo
 
 ## My project plan
